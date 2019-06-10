@@ -1,0 +1,84 @@
+/* Jumbotron */
+/* .jumbotrondiv{
+    text-align: center;
+    color: white; and
+} */
+.jumbotron{
+    background-color: blue;
+}
+#MainPageJumbotron {
+    background-size: cover;
+    background-position: center top;
+    background-color: blue;
+}
+   
+   
+a{
+    color: yellow;
+}
+/* Body*/
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+strong{
+    color: yellow;
+}
+
+h2{
+    padding-top: 2rem;
+}
+
+h3, h2 {
+    color: yellow;
+    
+}
+
+hr, li, p {
+    color: antiquewhite;
+}
+
+/* Heading*/
+.title{
+    /* background: #3bafba; */
+    background: blue;
+    padding: 50px 0px 0px 10px;
+    color: white;
+    text-align: center;
+
+}
+.bg-dark{
+    background-color: blue;
+}
+
+/* Table*/
+thead {
+    border-bottom: 1px solid #000000;
+    background-color: blue;
+}
+
+tr {
+    border-top: 1px solid #000000;
+    text-align: center;
+    color: white;
+}
+  
+th{
+    padding: 0  0 0 24em;
+    text-align: center;
+    color: yellow;
+}
+
+.tableEntry {
+    color: blue;
+}
+/* Form */
+input {
+    width: 100%;
+}
+
+form{
+    color: yellow;
+    width: 70%;
+    padding: 0px 0px 0px 30%;
+}
