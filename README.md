@@ -1,5 +1,5 @@
-# TrainScheduler
+# reference list
 project 
-https://usa85.github.io/TrainScheduler/
 
-A Javascript and Firebase application to illustrate the scheduling of trains.
+
+A Javascript and Firebase application to illustrate the registration of references.
